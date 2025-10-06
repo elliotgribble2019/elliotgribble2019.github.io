@@ -1,4 +1,4 @@
-# Project 1: Predicting Next Day Stock Market Direction using a CNN on candlestick images
+# [Project 1: Predicting Next Day Stock Market Direction using a CNN on candlestick images](https://github.com/elliotgribble2019/stock-market-predict-cnn)
 ## Brief Overview
 The project aimed to leverage Convolutional Neural Network (CNN) and Long Short-Term
 Memory Networks (LSTM) models for the analysis of candlestick patterns in stock market
