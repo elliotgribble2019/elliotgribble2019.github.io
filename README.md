@@ -1,5 +1,3 @@
-# Elliot Gribble's Data Science Portfolio
-
 # Project 1: Predicting Next Day Stock Market Direction using a CNN on candlestick images
 ## Brief Overview
 The project aimed to leverage Convolutional Neural Network (CNN) and Long Short-Term
